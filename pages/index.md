@@ -1,4 +1,5 @@
 ---
+type: page
 title: 关于
 ---
 
