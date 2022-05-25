@@ -12,7 +12,7 @@ export default {
       <style jsx>{`
         a {
           float: right;
-          margin: 0 .5rem;
+          margin-left: 1rem;
         }
         a svg {
           height: 1rem;
