@@ -1,3 +1,4 @@
+import { IconName } from "react-icons/ri";
 const YEAR = new Date().getFullYear()
 
 export default {
@@ -6,6 +7,7 @@ export default {
     <small style={{ display: 'block', marginTop: '8rem' }}>
       <time>{YEAR}</time> © 只是胡闹.
       <a href="/feed.xml">RSS</a>
+      <RiDiscordFill />
       <style jsx>{`
         a {
           float: right;
