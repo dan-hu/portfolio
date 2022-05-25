@@ -16,6 +16,7 @@ export default {
         }
         a svg {
           height: 1rem;
+          width: auto;
         }
         @media screen and (max-width: 480px) {
           article {
