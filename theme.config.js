@@ -1,7 +1,7 @@
 const YEAR = new Date().getFullYear()
 
 export default {
-  titleSuffix: "只是胡闹",
+  titleSuffix: " | 只是胡闹",
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
       <time>{YEAR}</time> © 只是胡闹.
