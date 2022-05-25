@@ -1,7 +1,7 @@
 const YEAR = new Date().getFullYear()
 
 export default {
-  github: "https://github.com/dan-hu",
+  titleSuffix: "只是胡闹",
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
       <time>{YEAR}</time> © 只是胡闹.
