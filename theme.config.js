@@ -32,5 +32,6 @@ export default {
       url: 'https://github.com/shuding/nextra',
       name: 'Nextra'
     }
-  ]
+  ],
+  readMore: '阅读更多'
 }
