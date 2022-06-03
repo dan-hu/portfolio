@@ -26,5 +26,11 @@ export default {
         }
       `}</style>
     </small>
-  )
+  ),
+  navs: [
+    {
+      url: 'https://github.com/shuding/nextra',
+      name: 'Nextra'
+    }
+  ]
 }
